@@ -299,11 +299,11 @@ img{
 .skills__ux{
   width: 85%;
 }
-.skill__python{
-  width:50%;
+.skills__python{
+  width: 50%;
 }
-.skill__react{
-  width:60%;
+.skills__react{
+  width: 60%;
 }
 .skills__img{
   border-radius: .5rem;
