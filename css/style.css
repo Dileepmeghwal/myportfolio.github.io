@@ -358,6 +358,9 @@ img{
   font-size: 2rem;
   margin-bottom: var(--mb-4);
 }
+.a, .footer__title{
+  color: #fff;
+}
 .footer__social{
   margin-bottom: var(--mb-4);
 }
